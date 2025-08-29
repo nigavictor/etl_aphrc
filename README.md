@@ -14,17 +14,7 @@ A miniature ETL pipeline and prediction service built for APHRC's coding challen
 
 ## 📂 Project Structure
 
-etl_aphrc/
-├── main.py # ETL + model training pipeline
-├── api.py # FastAPI web server for predictions
-├── model.pkl # Serialized trained model
-├── activity_logs.json # Synthetic activity log data
-├── static/
-│ ├── index.html # Frontend UI
-│ └── screenshot_ui.png # Screenshot of UI (used below)
-├── requirements.txt
-└── Dockerfile
-
+![FOLDER STRUCTURE](static/folder_structure.png)
 
 ---
 
